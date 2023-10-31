@@ -17,12 +17,12 @@
 
 <div id="github" align="center">
 <img src="https://komarev.com/ghpvc/?username=Jay-talera&style=flat-square&color=blue"alt=""/>
-
+</div>
 <h1>
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30"/>
 </h1>
-</div>
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/HUplkVCPY7jTW/giphy.gif" width="600" height="300"/>
