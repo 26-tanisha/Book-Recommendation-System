@@ -39,17 +39,10 @@ We are student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.
 
 ### :hammer_and_wrench: Languages and Tools :
 [![Python Badge](https://img.shields.io/badge/Python-blue?style=flat&logo=Python&logoColor=yellow)](https://www.python.org/)
-[![Anaconda Badge](https://img.shields.io/badge/Anaconda-blue?style=flat&logo=Anaconda&logoColor=green)](https://www.python.org/)
-
-<div>
-
-  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda"  alt="Anaconda" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="jupyter"  alt="jupyter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy"  alt="Numpy" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas"  alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode"  alt="vscode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" title="kaggle"  alt="kaggle" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github"  alt="Github" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/> -->
-</div>
+[![Anaconda Badge](https://img.shields.io/badge/Anaconda-blue?style=flat&logo=Anaconda&logoColor=green)](https://www.anaconda.com/)
+[![Jupyter Badge](https://img.shields.io/badge/Jupyter-blue?style=flat&logo=Jupyter&logoColor=green)](https://jupyter.org/)
+[![Numpy Badge](https://img.shields.io/badge/Numpy-blue?style=flat&logo=Numpy&logoColor=white)](https://numpy.org/)
+[![Pandas Badge](https://img.shields.io/badge/Pandas-blue?style=flat&logo=Pandas&logoColor=green)](https://pandas.pydata.org/)
+[![Kaggle Badge](https://img.shields.io/badge/Kaggle-blue?style=flat&logo=Kaggle&logoColor=yellow)](https://www.kaggle.com/)
+[![Github Badge](https://img.shields.io/badge/Github-blue?style=flat&logo=github&logoColor=black)](https://github.com/)
+[![Git Badge](https://img.shields.io/badge/Git-blue?style=flat&logo=git&logoColor=orange)](https://git-scm.com/)
