@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=Jay-talera&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=Jay-talera&style=flat-square&color=blue" align="center" alt=""/>
 <br>
 <ul>
 <li>Company : The Elucidate</li>
