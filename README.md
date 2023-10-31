@@ -39,7 +39,7 @@ We are student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  [![Linkedin Badge](https://drive.google.com/file/d/18HfSRx-NsbseNwbH6Ia1gtgFV6REhxcu/view?usp=drive_link)]
+  [![Linkedin Badge](https://img.shields.io/badge/Python-blue?style=flat&logo=Python&logoColor=yellow)](https://www.python.org/)
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda"  alt="Anaconda" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="jupyter"  alt="jupyter" width="40" height="40"/>&nbsp;
