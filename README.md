@@ -10,8 +10,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<div id='github' align='center'>
-<img src="https://komarev.com/ghpvc/?username=Jay-talera&style=flat-square&color=blue" align="center" alt=""/>
+<div id="github" align="center">
+<img src="https://komarev.com/ghpvc/?username=Jay-talera&style=flat-square&color=blue"alt=""/>
 </div>
 <br>
 <ul>
