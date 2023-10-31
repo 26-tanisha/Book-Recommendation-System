@@ -35,13 +35,11 @@ We are student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.
 - :eyes: We are interested in Machine Learning and Data Analysis
 - :purple_heart: We are looking to collaborate on Python Projects
 - :mailbox: How to reach us: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jayjain6865) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tanisha-yadav-2002)
-<img src="https://icons8.com/icon/Rc0Xn5AtE8kX/python" title="Python" alt="Python" width="40" height="40"/>
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://drive.google.com/file/d/18HfSRx-NsbseNwbH6Ia1gtgFV6REhxcu/view?usp=drive_link" title="Python" alt="Python" width="40" height="40"/>
-  &nbsp;
+  <img src="https://drive.google.com/file/d/18HfSRx-NsbseNwbH6Ia1gtgFV6REhxcu/view?usp=drive_link" />
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda"  alt="Anaconda" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="jupyter"  alt="jupyter" width="40" height="40"/>&nbsp;
