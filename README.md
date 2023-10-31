@@ -38,7 +38,8 @@ We are student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-[![Linkedin Badge](https://img.shields.io/badge/Python-blue?style=flat&logo=Python&logoColor=yellow)](https://www.python.org/)
+[![Python Badge](https://img.shields.io/badge/Python-blue?style=flat&logo=Python&logoColor=yellow)](https://www.python.org/)
+[![Anaconda Badge](https://img.shields.io/badge/Anaconda-blue?style=flat&logo=Anaconda&logoColor=green)](https://www.python.org/)
 
 <div>
 
